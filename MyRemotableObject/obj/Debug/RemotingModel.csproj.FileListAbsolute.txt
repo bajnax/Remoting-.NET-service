@@ -1,0 +1,4 @@
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.pdb

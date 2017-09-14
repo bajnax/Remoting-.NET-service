@@ -1,0 +1,17 @@
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\MyRemotableObject\obj\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RServer\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\RServer\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RServer\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\RServer\MyRemotableObject\obj\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\MyRemotableObject\obj\Debug\MyRemotableObject.pdb

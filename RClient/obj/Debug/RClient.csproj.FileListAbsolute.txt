@@ -1,0 +1,27 @@
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\obj\Debug\RemotableObjects.frmRCleint.resources
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\obj\Debug\RClient.csproj.GenerateResource.Cache
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\bin\Debug\RClient.exe
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\bin\Debug\RClient.pdb
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\bin\Debug\RemotableObjects.dll
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\bin\Debug\RemotableObjects.pdb
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\obj\Debug\RClient.exe
+C:\Users\vtkinju\Documents\Visual Studio 2012\Projects\Code\RClient\obj\Debug\RClient.pdb
+C:\Users\Дима\Desktop\C#\RClient\obj\Debug\RClient.exe
+C:\Users\Дима\Desktop\C#\RClient\obj\Debug\RClient.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\bin\Debug\RClient.exe
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\bin\Debug\RClient.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\obj\Debug\RClient.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\obj\Debug\RClient.exe
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\obj\Debug\RClient.pdb
+C:\Users\Дима\Desktop\C#\RemotingBainak\RClient\obj\Debug\Rclient.Client.resources
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\bin\Debug\RClient.exe
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\bin\Debug\RClient.pdb
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\bin\Debug\MyRemotableObject.dll
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\bin\Debug\MyRemotableObject.pdb
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\obj\Debug\RClient.csprojResolveAssemblyReference.cache
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\obj\Debug\Rclient.Client.resources
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\obj\Debug\RClient.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\obj\Debug\RClient.exe
+C:\Users\Дима\Desktop\Distributed programming\C#\RemotingBainak\RClient\obj\Debug\RClient.pdb
